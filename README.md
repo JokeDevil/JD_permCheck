@@ -6,6 +6,7 @@
 </h4>
 <h4 align="center">
 Simple way to check if a person has specific ace permissions
-</h5>
+
 
 ![Image](https://i.gyazo.com/ae97b965372d9faeb9a450ce023e3076.png)
+</h4>
